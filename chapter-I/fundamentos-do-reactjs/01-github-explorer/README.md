@@ -1,5 +1,3 @@
-# Desafio: Portfolio
-
 <p align="center">
    <img src="https://xesque.rocketseat.dev/platform/1615173790188.svg" alt="Ignite Rocketseat"/>
 </p>
@@ -20,8 +18,4 @@
   <li> Webpack </li>
 </ul>
 
-### Prerequisites
 
-- Install [Node.js](https://nodejs.org)
-
-- Install [Yarn](https://yarnpkg.com/)
