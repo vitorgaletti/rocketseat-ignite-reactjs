@@ -2,7 +2,7 @@
    <img src="https://xesque.rocketseat.dev/platform/1615173790188.svg" alt="Ignite Rocketseat"/>
 </p>
 
-<p align="center"><em>Github Explorer é o primeiro projeto criado no chapter 1 da trilha de ReactJS do Ignite da <a href="https://github.com/Rocketseat" target="_blank">Rocketseat</a>. O projeto é para demonstrar a construção básica, do zero, de um projeto em React. No projeto é listado os repositórios da Rocketseat utilizando a API do Github.</em></p>
+<p align="center"><em>Github Explorer is the first project developed in chapter 1 of <a href="https://github.com/Rocketseat" target="_blank">Rocketseat's</a> Ignite ReactJS track. The project is to show a basic construction, from scratch to a project in ReactJs. The project lists the Rocketseat repositories using the Github API.</em></p>
 
 ![Website](./assets/img/preview.png)
 
@@ -18,4 +18,47 @@
   <li> Webpack </li>
 </ul>
 
+## Development
 
+---
+
+### Prerequisites
+
+- Install [Node.js](https://nodejs.org)
+
+- Install [Yarn](https://yarnpkg.com/)
+
+### Clone the repo
+
+```bash
+$ git clone git@github.com:vitorgaletti/rocketseat-ignite-reactjs.git
+```
+
+### Run project
+
+```bash
+# Change into directory
+$ cd personal-portfolio/
+$ cd chapter-I/
+$ cd fundamentos-do-reactjs/
+$ cd 01-github-explorer/
+```
+
+- Install dependencies
+
+```bash
+$ yarn
+```
+
+- Run
+
+```bash
+$ yarn start
+```
+
+- Run scripts
+
+|        Action        |    Usage     |
+| :------------------: | :----------: |
+|  Start development   |  `yarn dev`  |
+| Build for production | `yarn build` |
