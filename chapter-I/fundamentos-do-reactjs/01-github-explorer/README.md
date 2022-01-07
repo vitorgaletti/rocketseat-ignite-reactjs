@@ -2,7 +2,7 @@
    <img src="https://xesque.rocketseat.dev/platform/1615173790188.svg" alt="Ignite Rocketseat"/>
 </p>
 
-<p align="center"><em>Github Explorer is the first project developed in chapter 1 of <a href="https://github.com/Rocketseat" target="_blank">Rocketseat's</a> Ignite ReactJS track. The project is to show a basic construction, from scratch to a project in ReactJs. The project lists the Rocketseat repositories using the Github API.</em></p>
+<p align="center"><em>Github Explorer is the first project developed in chapter 1 of <a href="https://github.com/Rocketseat" target="_blank">Rocketseat's</a> Ignite ReactJS track. The project shows a basic build from scratch for a project developed in ReactJs. The project lists the Rocketseat repositories using the Github API.</em></p>
 
 ![Website](./assets/img/preview.png)
 
