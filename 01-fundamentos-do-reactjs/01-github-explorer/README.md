@@ -38,8 +38,6 @@ $ git clone git@github.com:vitorgaletti/rocketseat-ignite-reactjs.git
 
 ```bash
 # Change into directory
-$ cd personal-portfolio/
-$ cd chapter-I/
 $ cd fundamentos-do-reactjs/
 $ cd 01-github-explorer/
 ```
