@@ -13,7 +13,7 @@
   <li> SCSS </li>
   <li> JavaScript </li>
   <li> React </li>
-  <li> TypeCcript </li>
+  <li> TypeScript </li>
   <li> Babel </li>
   <li> Webpack </li>
 </ul>
