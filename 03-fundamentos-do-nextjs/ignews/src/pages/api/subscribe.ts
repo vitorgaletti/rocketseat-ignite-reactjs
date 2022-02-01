@@ -2,7 +2,7 @@ import { NextApiRequest, NextApiResponse } from 'next';
 import { getSession } from 'next-auth/react';
 import { stripe } from '../../services/stripe';
 
-export const subscribe = async (req: NextApiRequest, res: NextApiResponse) => {
+const subscribe = async (req: NextApiRequest, res: NextApiResponse) => {
   if (req.method === 'POST') {
     const session = await getSession({ req });
 
@@ -27,3 +27,5 @@ export const subscribe = async (req: NextApiRequest, res: NextApiResponse) => {
     res.status(405).end('Method not allowed');
   }
 };
+
+export default subscribe;
