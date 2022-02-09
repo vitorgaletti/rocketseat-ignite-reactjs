@@ -26,8 +26,6 @@ const subscribe = async (req: NextApiRequest, res: NextApiResponse) => {
       )
     );
 
-    console.log(user);
-
     let customerId = user.data.stripe_customer_id;
 
     if (!customerId) {
