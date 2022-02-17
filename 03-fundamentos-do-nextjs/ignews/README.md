@@ -4,10 +4,14 @@
 <img alt="Fundamentos do Next.js" src="https://xesque.rocketseat.dev/platform/1616401001053.svg" width="200" hspace="50" align="center"/>
 <img alt="Front-end JAMStack" src="https://xesque.rocketseat.dev/platform/1616401907773.svg" align="center" width="200"/>
 
-<img alt="ignews" src="./src/assets/logo.png" width="200" hspace="
-250" align="center"/>
+
 
 </p>
+
+<p align="center">
+     <img alt="ignews" src="./src/assets/logo.png" width="200" align="center"/>
+</p>
+
 
 <br>
 
