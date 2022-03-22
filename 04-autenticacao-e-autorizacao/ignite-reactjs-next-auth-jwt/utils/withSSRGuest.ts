@@ -10,6 +10,7 @@ export function withSSRGuest<P>(fn: GetServerSideProps<P>) {
     ctx: GetServerSidePropsContext
   ): Promise<GetServerSidePropsResult<P>> => {
     const cookies = parseCookies(ctx);
+
     if (cookies['nextauth.token']) {
       return {
         redirect: {
