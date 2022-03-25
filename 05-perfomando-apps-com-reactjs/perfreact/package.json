@@ -11,12 +11,15 @@
     "server": "json-server -d 750 -w -p 3333 ./server.js"
   },
   "dependencies": {
+    "@next/bundle-analyzer": "^12.1.0",
+    "lodash": "^4.17.21",
     "next": "12.1.0",
     "react": "17.0.2",
     "react-dom": "17.0.2",
     "react-virtualized": "^9.22.3"
   },
   "devDependencies": {
+    "@types/lodash": "^4.14.180",
     "@types/node": "17.0.23",
     "@types/react": "17.0.42",
     "@types/react-virtualized": "^9.21.20",
