@@ -65,10 +65,15 @@ O dt money é uma alternativa simples e eficaz para gerenciar suas finanças, pe
 ### Clone o repositório
 
 ```bash
-$ git@github.com:vitorgaletti/rocketseat-ignite-reactjs.git
+$ git clone git@github.com:vitorgaletti/rocketseat-ignite-reactjs.git
 ```
 
 ### Executar Projeto
+
+```bash
+# Mudar para directório
+$ cd rocketseat-ignite-reactjs/
+```
 
 ```bash
 # Mudar para directório
