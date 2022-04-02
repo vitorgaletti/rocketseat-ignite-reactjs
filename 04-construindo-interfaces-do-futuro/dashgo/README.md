@@ -1,34 +1,107 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Chapter IV - Construindo interfaces do futuro
 
-## Getting Started
+<p align="center">
+  <img alt="Construindo interfaces do futuro" src="https://xesque.rocketseat.dev/platform/1617214059963.svg" width="150"  align="center"/>
+  <img alt="Data fetching e cache local" src="https://xesque.rocketseat.dev/platform/1617970681158.svg" width="150" hspace="50" align="center"/>
+    <img alt="Autenticação e autorização" src="https://xesque.rocketseat.dev/platform/1620053517721.svg" width="150" align="center"/>
+</p>
 
-First, run the development server:
+<br>
+
+<p align="center">
+<img alt="dashgo" src="./src/assets/logo.png" width="300" align="center"/>
+</p>
+
+<br>
+
+<p align="center"><em>Confira o resultado do desafio em: <a href="https://dashgo-rocketseat-vitor.vercel.app/" target="_blank">dashgo-rocketseat-vitor.vercel.app</a></em></p>
+
+## :computer: Sobre o projeto
+
+<hr>
+
+O projeto foi desenvolvido durante o capítulo IV do Ignite da Rocketseat. O objetivo era desenvolver um dashboard usando completamente o Chakra UI, também deixando a aplicação responsiva.
+
+## Imagens
+
+<div>
+
+|                             Tela de Login                             |
+| :-------------------------------------------------------------------: |
+| <img src="./src/assets/login.png" alt="tela de login"  width="600" /> |
+
+|                               Dashboard                               |
+| :-------------------------------------------------------------------: |
+| <img src="./src/assets/dashboard.png" alt="dashboard"  width="900" /> |
+
+|                             Usuários                             |
+| :--------------------------------------------------------------: |
+| <img src="./src/assets/users.png" alt="usuários"  width="900" /> |
+
+|                             Criar Usuário                              |
+| :--------------------------------------------------------------------: |
+| <img src="./src/assets/create-user.png" alt="usuários"  width="900" /> |
+
+</div>
+
+## :rocket: Techs
+
+<ul>
+  <li> ReactJS </li>
+  <li> TypeScript </li>
+  <li> Next.js </li>
+  <li> Chakra UI </li>
+  <li> Axios </li>
+  <li> React Hook Form </li>
+  <li> React Query </li>
+  <li> Mirage JS </li>
+  <li> Yup </li>
+</ul>
+
+## Desenvolvimento
+
+---
+
+### Pré-requisitos
+
+- Instalar [Node.js](https://nodejs.org)
+
+- Instalar [Yarn](https://yarnpkg.com/)
+
+### Clone o repositório
 
 ```bash
-npm run dev
-# or
-yarn dev
+$ git clone https://github.com/vitorgaletti/ignite-reactjs-dashgo.git
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Executar Projeto
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+```bash
+# Mudar para directório
+$ cd ignite-reactjs-dashgo/
+```
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+- Instalar dependências
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+```bash
+$ yarn
+```
 
-## Learn More
+- Execute
 
-To learn more about Next.js, take a look at the following resources:
+```bash
+$ yarn dev
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+```bash
+$ yarn build
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- Executar scripts
 
-## Deploy on Vercel
+|          Ação          |  Utilização  |
+| :--------------------: | :----------: |
+|   Iniciar o servidor   |  `yarn dev`  |
+| Compilar para produção | `yarn build` |
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Acesse <http://localhost:3000> para ver o resultado.
