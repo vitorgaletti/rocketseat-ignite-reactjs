@@ -12,7 +12,7 @@
 
   - [Chapter I - Fundamentos do React](#one-chapter-i)
     - [Github Explorer](#github-explorer)
-      <br> - [Desafio 1](#to.do) : Conceitos do React
+      <br> - [Desafio 1](#todo) : Conceitos do React
       <br> - [Desafio 2](#watchme) : Componentizando a aplicação
   - [Chapter II - Primeira aplicação Web com ReactJS](#two-chapter-ii)
     - [dt money](#dt-money)
