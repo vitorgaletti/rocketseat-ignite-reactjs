@@ -12,7 +12,9 @@
 
   - [Chapter I - Fundamentos do React](#one-chapter-i)
     - [Github Explorer](#github-explorer)
+    - [Ignite Feed](#ignite-feed)
       <br> - [Desafio 1](#todo) : Conceitos do React
+      <br> - [Desafio 1](#todo-list) : Praticando os conceitos do ReactJS
       <br> - [Desafio 2](#watchme) : Componentizando a aplicação
   - [Chapter II - Primeira aplicação Web com ReactJS](#two-chapter-ii)
     - [dt money](#dt-money)
@@ -45,6 +47,14 @@
    </a>
 </p>
 
+### Ignite Feed
+
+<p align="center">
+  <a href="https://github.com/vitorgaletti/rocketseat-ignite-reactjs/tree/main/01-fundamentos-do-reactjs/01-ignite-feed">
+     <img src="https://xesque.rocketseat.dev/platform/1654111253226.svg" alt="Ignite Feed" width="150"/>
+   </a>
+</p>
+
 <br>
 
 ### to.do
@@ -52,6 +62,14 @@
 <p align="center">
   <a href="https://github.com/vitorgaletti/ignite-reactjs-to-do">
      <img src="https://raw.githubusercontent.com/vitorgaletti/ignite-reactjs-to-do/main/public/assets/img/logo.png" alt="to.do" width="300"/>
+   </a>
+</p>
+
+### ToDo List
+
+<p align="center">
+  <a href="https://github.com/vitorgaletti/ignite-reactjs-todo-list">
+     <img src="https://raw.githubusercontent.com/vitorgaletti/ignite-reactjs-todo-list/main/public/img/Capa.png" alt="ToDo List" width="300"/>
    </a>
 </p>
 
